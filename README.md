@@ -1,23 +1,12 @@
-# Internet Finder
-A browser that is totally useless in every way.
-
-You will die trying to use IF.
+# Internet Finder <img src="/IMG_3002.PNG" width="140px" style="float: right;">
+A browser that is totally useless in every way.<br>
+Made with hate by stx4.<br>
 
 <h2> Features </h2>
-Basically IE 11 but worse. Use at your own risk.
+IE11 but stripped.<br>
+Like very stripped.<br>
+Badly.<br>
 
 <h2> Pain & suffering </h2>
-All of it. YouTube doesn't work, Google doesn't work, fantastic.
-
-Yet Bing works perfectly. Don't use Bing, kids.
-
-<h2> The Discord </h2>
-Coming soon.
-
-I swear.
-
-Maybe.
-
-OK I might not but shut the fuc-
-
-Just be quiet.
+We got it. Most sites do NOT work, it's the IE11 engine on every PC.<br>
+Yet Bing works perfectly. Don't use Bing, kids. It's dangerous.<br>
