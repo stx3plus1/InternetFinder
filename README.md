@@ -1,4 +1,4 @@
-# Internet Finder <img src="/IMG_3002.PNG" width="140px" style="float: right;">
+# Internet Finder <img src="/Icon.ico" width="140px" style="float: right;">
 A browser that is totally useless in every way.<br>
 Made with hate by stx4.<br>
 
