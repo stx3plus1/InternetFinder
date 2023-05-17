@@ -1,0 +1,16 @@
+C:\Users\st4rz\source\repos\Internet Finder\bin\Debug\Internet Finder.exe.config
+C:\Users\st4rz\source\repos\Internet Finder\bin\Debug\Internet Finder.exe
+C:\Users\st4rz\source\repos\Internet Finder\bin\Debug\Internet Finder.pdb
+C:\Users\st4rz\source\repos\Internet Finder\bin\Debug\Internet Finder.xml
+C:\Users\st4rz\source\repos\Internet Finder\obj\Debug\Internet Finder.vbproj.AssemblyReference.cache
+C:\Users\st4rz\source\repos\Internet Finder\obj\Debug\Internet_Finder.Resources.resources
+C:\Users\st4rz\source\repos\Internet Finder\obj\Debug\Internet Finder.vbproj.GenerateResource.cache
+C:\Users\st4rz\source\repos\Internet Finder\obj\Debug\Internet Finder.vbproj.CoreCompileInputs.cache
+C:\Users\st4rz\source\repos\Internet Finder\obj\Debug\Internet Finder.exe
+C:\Users\st4rz\source\repos\Internet Finder\obj\Debug\Internet Finder.xml
+C:\Users\st4rz\source\repos\Internet Finder\obj\Debug\Internet Finder.pdb
+C:\Users\st4rz\source\repos\Internet Finder\obj\Debug\Internet_Finder.splash.resources
+C:\Users\st4rz\source\repos\Internet Finder\obj\Debug\Internet_Finder.main.resources
+C:\Users\st4rz\source\repos\Internet Finder\obj\Debug\Internet_Finder.page.resources
+C:\Users\st4rz\source\repos\Internet Finder\obj\Debug\Internet_Finder.about.resources
+C:\Users\st4rz\source\repos\Internet Finder\obj\Debug\Internet_Finder.settings.resources
